@@ -9,7 +9,9 @@ layout: default
       <div class="mdl-color-text--grey-500">
       {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
       </div>
+      <a href = page.url>
       <h3>{{ page.title }}</h3>
+      </a>
       <article class="post-content">
         <p>{{ content }}</p>
       </article>
