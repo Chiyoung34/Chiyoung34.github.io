@@ -1,12 +1,12 @@
 # Site settings
-title: Chiyoung34's Blog
+title: znot34's Blog
 email: gdccy@naver.com
 description: > # this means to ignore newlines until "baseurl:"
   Chiyoung의 개인 블로그입니다.
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://Chiyoung34.github.io" # the base hostname & protocol for your site
+url: "http://znot34.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  Chiyoung34
+github_username:  znot34
 facebook_username: gdccy
 #google_play: 'GDGX'
 #google_plus_com: '109485346959707049693'  # Community link
