@@ -2,7 +2,7 @@
 title: znot34's Blog
 email: gdccy@naver.com
 description: > # this means to ignore newlines until "baseurl:"
-  Chiyoung의 개인 블로그입니다.
+  znot34의 개발 블로그입니다.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://znot34.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
