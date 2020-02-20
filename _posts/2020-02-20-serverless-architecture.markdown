@@ -2,7 +2,7 @@
 layout: post
 title:  "Serverless Architecture"
 date:   2020-02-20 22:15:00
-categories: mdl
+categories: GDG
 author: ZNOT34
 image: http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG
 ---
