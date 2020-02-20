@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Serverless Architecture"
+title:  "Google Developers Group"
 date:   2020-02-20 10:34:20
-categories: mdl
-author: ZNOT34
-image: https://40.media.tumblr.com/efb92b8cbb6741ffa5ce92e885ce6a83/tumblr_inline_nr5dqmvXlY1sif8wc_540.png
+categories: GDG
+highlight: true
+image: http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG
 ---
 Bacon ipsum dolor amet esse et laborum, ground round hamburger venison rump meatball frankfurter cow capicola ut. Boudin dolore capicola, consequat ut filet mignon dolor duis incididunt. Frankfurter esse qui venison. Chuck adipisicing cillum excepteur laborum ex filet mignon landjaeger quis dolore kevin.
 
