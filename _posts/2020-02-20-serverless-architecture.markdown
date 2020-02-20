@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Google Developers Group"
-date:   2015-10-11 04:34:20
+title:  "Serverless Architecture"
+date:   2020-02-20 22:15:00
 categories: GDG
 highlight: true
 image: http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG
