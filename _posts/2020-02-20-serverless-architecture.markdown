@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Serverless Architecture"
-date:   2020-02-20 10Z:34:20
+date:   2020-02-20 10:34:20
 categories: mdl
 author: ZNOT34
 image: https://40.media.tumblr.com/efb92b8cbb6741ffa5ce92e885ce6a83/tumblr_inline_nr5dqmvXlY1sif8wc_540.png
