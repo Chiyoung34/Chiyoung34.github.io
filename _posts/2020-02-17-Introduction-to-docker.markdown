@@ -40,4 +40,14 @@ Managing Deployments Using Kubernetes Engine
 <h4>도커에서 헬로우 월드 날리기!</h4>
 {% highlight python linenos %} docker run hello-world {% endhighlight %}
 
+{% highlight python linenos %}
+Unable to find image 'hello-world:latest' locally
+latest: Pulling from library/hello-world
+9db2ca6ccae0: Pull complete
+Digest: sha256:4b8ff392a12ed9ea17784bd3c9a8b1fa3299cac44aca35a85c90c5e3c7afacdc
+Status: Downloaded newer image for hello-world:latest
 
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+...
+{% endhighlight %}
