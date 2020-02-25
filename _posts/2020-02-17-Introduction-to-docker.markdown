@@ -26,7 +26,7 @@ author: znot34
 2) 도커 이미지를 도커 허브와 구글 컨테이너 레지스트리에서 가져오는 법을 배워본다.
 3) 도커 이미지를 구글 컨테이너 레지스트리에 푸시하는 법을 배운다.
 
-<h2>필요한 선수지식</h2>
+<h4>필요한 선수지식</h4>
 
 이번 랩은 소개 레벨의 랩입니다. 도커와 컨테이너를 사전에 경험해 본 적이 없다고 해도 괜찮습니다.
 클라우드 쉘과 커맨드 라인에 친숙하시면 좋습니다. 
@@ -37,7 +37,7 @@ Hello Node Kubernetes
 Managing Deployments Using Kubernetes Engine
 
 
-<h2>도커</h2>
+<h4>도커</h4>
 {% highlight ruby %} docker run hello-world {% endhighlight %}
 
 
