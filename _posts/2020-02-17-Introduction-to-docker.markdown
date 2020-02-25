@@ -38,6 +38,6 @@ Managing Deployments Using Kubernetes Engine
 
 
 <h2>도커</h2>
-docker run hello-world
+{% highlight ruby %} docker run hello-world {% endhighlight %}
 
 
