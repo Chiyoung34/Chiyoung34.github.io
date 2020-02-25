@@ -6,8 +6,8 @@ categories: qwiklabs
 author: znot34
 ---
 <img src="https://cdn.qwiklabs.com/GMOHykaqmlTHiqEeQXTySaMXYPHeIvaqa2qHEzw6Occ%3D">
-</br>
-</br>
+<br>
+<br>
 
 도커는 어플리케이션의 개발, 배포, 실행을 담당하는 오픈 플랫폼이다.
 도커를 사용하여 인프라스트럭처에서 애플리케이션을 분리할 수도,
