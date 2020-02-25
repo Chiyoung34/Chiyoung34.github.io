@@ -40,6 +40,7 @@ Managing Deployments Using Kubernetes Engine
 <h4>도커에서 헬로우 월드 날리기!</h4>
 {% highlight python linenos %} docker run hello-world {% endhighlight %}
 
+아웃풋 : 
 {% highlight python linenos %}
 Unable to find image 'hello-world:latest' locally
 latest: Pulling from library/hello-world
