@@ -37,7 +37,7 @@ Hello Node Kubernetes
 Managing Deployments Using Kubernetes Engine
 
 
-<h4>도커</h4>
+<h4>도커에서 헬로우 월드 날리기!</h4>
 {% highlight python linenos %} docker run hello-world {% endhighlight %}
 
 
